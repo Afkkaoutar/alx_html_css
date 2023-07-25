@@ -1,0 +1,102 @@
+/* Global Styles */
+body {
+    font-family: 'Open Sans', sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 0 15px;
+  }
+  
+  /* Header Styles */
+  .header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+  }
+  
+  .header-logo img {
+    vertical-align: middle;
+  }
+  
+  .nav {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .nav-item {
+    display: inline-block;
+    margin-right: 15px;
+    text-decoration: none;
+    color: #fff;
+  }
+  
+  /* Grid Styles */
+  .row {
+    display: flex;
+  }
+  
+  .col-1-2 {
+    width: calc(50% - 1rem);
+    margin: 1rem;
+  }
+  
+  .col-1-3 {
+    width: calc(33.3333% - 1rem);
+    margin: 1rem;
+  }
+  
+  /* Main Styles */
+  .main {
+    padding: 30px 0;
+  }
+  
+  /* Footer Styles */
+  .footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+  }
+  
+  .footer-nav {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .footer-nav-item {
+    display: inline-block;
+    margin-right: 15px;
+  }
+  
+  /* Custom Styles for Task 1 */
+  .section-services {
+    /* Add your custom styles here for section-services */
+  }
+  
+  .section-works {
+    /* Add your custom styles here for section-works */
+  }
+  
+  .section-about-us {
+    /* Add your custom styles here for section-about-us */
+  }
+  
+  .section-latest-news {
+    /* Add your custom styles here for section-latest-news */
+  }
+  
+  .section-testimonial {
+    /* Add your custom styles here for section-testimonial */
+  }
+  
+  .section-contact {
+    /* Add your custom styles here for section-contact */
+  }
+  
